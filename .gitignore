@@ -1,0 +1,10 @@
+/.venv/
+/.tmp/
+/data/
+/out/
+__pycache__/
+/.pytest_cache/
+/.ruff_cache/
+/.hypothesis/
+*.egg-info/
+/dist/
